@@ -1,0 +1,1 @@
+osascript -e 'tell application "System Events"' -e 'shut down' -e 'end tell'
